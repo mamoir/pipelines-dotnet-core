@@ -2,6 +2,8 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+[![Build Status](https://dev.azure.com/murdochuni/ICC/_apis/build/status/mamoir.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/murdochuni/ICC/_build/latest?definitionId=2&branchName=master)
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
